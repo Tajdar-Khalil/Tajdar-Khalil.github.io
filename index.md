@@ -1,4 +1,3 @@
-
 # Tajdar Khalil
 
 **Undergraduate Data Science Student  Aspiring AI Developer**
